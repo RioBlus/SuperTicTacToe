@@ -11,3 +11,5 @@
 好玩爱玩
 
 求个星星
+
+要下载的话，点击[这里](https://github.com/RioBlus/SuperTicTacToe/raw/refs/heads/master/SuperTicTacToeGame.rar)就OK了
